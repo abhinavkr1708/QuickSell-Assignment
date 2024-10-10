@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Kanban board application built using ReactJS. It allows users to interact with ticket data fetched from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment). Users can group and sort tickets based on different criteria, making it a versatile tool for project management. See the project live at [Live Link]().
+This project is a Kanban board application built using ReactJS. It allows users to interact with ticket data fetched from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment). Users can group and sort tickets based on different criteria, making it a versatile tool for project management. See the project live at [Live Link](https://quick-sell-assignment-green.vercel.app/).
 
 ## Features
 
@@ -40,7 +40,7 @@ This project is a Kanban board application built using ReactJS. It allows users 
 1. **Clone the Repository:**
 
    ```bash
-   git clone
+   git clone https://github.com/abhinavkr1708/QuickSell-Assignment.git
    ```
 
 2. **Install Dependencies:**
